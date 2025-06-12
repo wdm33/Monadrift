@@ -1,2 +1,2 @@
-# codaic
+# monadrift
 Haskell IDE
