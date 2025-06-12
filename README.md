@@ -1,0 +1,2 @@
+# codaic
+Haskell IDE
